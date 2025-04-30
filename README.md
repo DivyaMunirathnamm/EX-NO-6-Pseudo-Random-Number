@@ -33,6 +33,7 @@ End the program.
  }
  return 0;
  }
+```
 
 # OUTPUT:
 ![Screenshot 2025-04-30 135032](https://github.com/user-attachments/assets/e9395663-fa3d-4824-b383-3a63993c3305)
